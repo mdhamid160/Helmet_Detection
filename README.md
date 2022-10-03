@@ -5,8 +5,11 @@ Helmet detection to avoid traffic rules violation
 
 ![image](https://github.com/mdhamid160/Helmet_Detection/blob/main/Helmet.gif)
 
-``` git clone ```
+``` git clone https://github.com/mdhamid160/Helmet_Detection.git ```
+
 ``` cd Helmet_Detection ```
+
 ``` pip install -r requirements.txt ```
 
-----------------------------------------------------------Happy Coding---------------------------------------------------------------------------
+
+---------------------------------------------------------------------Happy Coding---------------------------------------------------------------------------------
